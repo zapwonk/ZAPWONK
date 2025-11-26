@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="ZAPWONK-LOGO1.png" width="150" alt="ZAPWONK System">
+  <img src="ZAPWONK LOGO1.png" width="150" alt="ZAPWONK System">
 
   # ZAPWONK™
   
