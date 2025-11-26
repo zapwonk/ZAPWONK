@@ -1,28 +1,46 @@
-# // SYSTEM ONLINE: ZAPWONK™
-
 <div align="center">
+
+  <img src="ZAPWONK-LOGO1.png" width="150" alt="ZAPWONK System">
+
+  # ZAPWONK™
   
-  <img src="Screenshot 2025-11-25 174722.png" width="600" alt="ZAPWONK Official Poster">
-
-  <br><br>
-
-  ### HIGH VOLTAGE. DEEP LOGIC.
-  **Bridging the gap between engineering rigor and creative design.**
-
+  **HIGH VOLTAGE. DEEP LOGIC.**
+  
   ---
+  
+  <h3>
+    <span style="color: #00bfff">ZAP</span>: THE IDEA.&nbsp;&nbsp;//&nbsp;&nbsp;<span style="color: #bfefff">WONK</span>: THE CRAFT.
+  </h3>
 
-  ### 🛠 SYSTEM SPECS (Tools Used)
-  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-  ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![AutoCAD](https://img.shields.io/badge/AutoCAD-%23E32220.svg?style=for-the-badge&logo=autodesk&logoColor=white)
+  <br>
+
+  <a href="https://zapwonk.com">
+    <img src="https://img.shields.io/badge/SYSTEM_STATUS-ONLINE-00bfff?style=for-the-badge&logo=rss&logoColor=white">
+  </a>
+
+  <a href="mailto:chris.mills@zapwonk.com">
+    <img src="https://img.shields.io/badge/COMMS-OPEN-000000?style=for-the-badge&logo=gmail&logoColor=00bfff">
+  </a>
 
 </div>
 
-### 📂 ACTIVE PROJECTS
-- **ZAPwonk.art** - [Live System](https://zapwonk.art)
-- **Lucky 7 Oracle** - Probability Logic Engine
-- **Flux Grid** - Interactive Javascript Physics
+<br>
+
+### // OPERATIONAL CAPABILITIES
+| **DESIGN (The Zap)** | **ENGINEERING (The Wonk)** |
+| :--- | :--- |
+| ⚡️ **UX/UI Design** | 🛠 **CAD Drafting** |
+| ⚡️ **Figma Prototyping** | 🛠 **Technical Documentation** |
+| ⚡️ **Surreal Systems** | 🛠 **HTML5 / CSS3 Physics** |
+
+<br>
+
+### // DEPLOYED SYSTEMS
+- 🎱 **[LUCKY 7 ORACLE](https://zapwonk.com/lucky7)** - *Probability Decision Engine*
+- ⚡️ **[BOLT RUNNER](https://zapwonk.com/bolt)** - *Vector Deflection Physics*
+- 🎨 **[FLUX GRID](https://zapwonk.com/flux)** - *Interactive Neon Art*
 
 ---
-*© 2025 ZAPWONK STUDIOS. ALL RIGHTS RESERVED.*
+<div align="center">
+  <sub>© 2025 ZAPWONK STUDIOS. NJ / REMOTE.</sub>
+</div>
