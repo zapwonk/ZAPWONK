@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  <img src="poster.png" width="600" alt="ZAPWONK Official Poster">
+  <img src="Screenshot 2025-11-25 174722.png" width="600" alt="ZAPWONK Official Poster">
 
   <br><br>
 
